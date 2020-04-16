@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ajeg_formation@mysql-ajeg.alwaysdata.net" uuid="720842e8-99db-4158-afb9-e7a01f9098bc">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://mysql-ajeg.alwaysdata.net:3306/ajeg_formation</jdbc-url>
+    </data-source>
+  </component>
+</project>
